@@ -1,0 +1,7 @@
+const currentCity=document.getElementById("cityname")
+const currenttemperature=document.getElementById("currenttemperature")
+const currentwind=document.getElementById("currentwind")
+const currenthumidity=document.getElementById("currentHumidity")
+const temp1=document.getElementById("temp1")
+const wind1=document.getElementById("wind1")
+const hum1=document.getElementById("hum1")
